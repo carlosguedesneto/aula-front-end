@@ -22,3 +22,9 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 - CSS
 - JavaScript
 - Git e GitHub
+
+4o COMMIT
+ 
+## 🎯 Objetivo
+ 
+Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
